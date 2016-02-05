@@ -1,0 +1,9 @@
+This is a Social Website Called Rails Social
+
+02/04/16 added in gem ransack
+https://github.com/activerecord-hackery/ransack
+"Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application"
+
+02/05/16 added in gem font-awesome-rails
+https://github.com/bokmann/font-awesome-rails
+"font-awesome-rails provides the Font-Awesome web fonts and stylesheets as a Rails engine for use with the asset pipeline.
