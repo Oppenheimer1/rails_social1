@@ -2,7 +2,7 @@ This is a Social Website Called Rails Social
 
 To start this application make sure you have the correct version of Ruby.
 In the terminal type in which ruby, if the following doesn't show up in your path you're
-not using the correct version.
+not using the correct version.   2.0.0-p481
 
 If you don't have the correct version in the terminal type in
 rvm use 2.0.0-p481
@@ -19,6 +19,10 @@ https://github.com/activerecord-hackery/ransack
 https://github.com/bokmann/font-awesome-rails
 "font-awesome-rails provides the Font-Awesome web fonts and stylesheets as a Rails engine for use with the asset pipeline.
 
-02/06/16 add in gem devise
+02/06/16 added in gem devise
 https://github.com/plataformatec/devise
 "Devise is a flexible authentication solution for Rails based on Warden"
+
+02/07/16 added in gem state_machine
+https://github.com/pluginaweek/state_machine
+"State machines make it dead-simple to manage the behavior of a class."
