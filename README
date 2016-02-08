@@ -26,3 +26,7 @@ https://github.com/plataformatec/devise
 02/07/16 added in gem state_machine
 https://github.com/pluginaweek/state_machine
 "State machines make it dead-simple to manage the behavior of a class."
+
+02/08/16 added in gem draper
+https://github.com/drapergem/draper
+"Draper adds an object-oriented layer of presentation logic to your Rails application."

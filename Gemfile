@@ -5,6 +5,7 @@ gem 'rails', '3.2.18'
 gem 'devise'
 
 gem 'state_machine'
+gem 'draper', '~> 1.0'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
