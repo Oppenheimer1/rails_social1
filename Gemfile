@@ -7,6 +7,8 @@ gem 'devise'
 gem 'state_machine'
 gem 'draper', '~> 1.0'
 
+gem 'paperclip' , '~> 3.4.1'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 

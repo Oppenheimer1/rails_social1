@@ -30,3 +30,9 @@ https://github.com/pluginaweek/state_machine
 02/08/16 added in gem draper
 https://github.com/drapergem/draper
 "Draper adds an object-oriented layer of presentation logic to your Rails application."
+
+02/10/16 added in gem paperclip
+https://github.com/thoughtbot/paperclip
+"Paperclip is intended as an easy file attachment library for ActiveRecord."
+"ImageMagick must be installed and Paperclip must have access to it. To ensure that it does, on your command line, run which convert (one of the ImageMagick utilities). This will give you the path where that utility is installed. For example, it might return /usr/local/bin/convert."
+If ImageMagick is not installed follow the instructions to have it installed to work properly with paperclip
