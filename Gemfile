@@ -9,6 +9,10 @@ gem 'draper', '~> 1.0'
 
 gem 'paperclip' , '~> 3.4.1'
 
+
+
+gem 'twitter-bootstrap-rails'
+
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 

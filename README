@@ -36,3 +36,7 @@ https://github.com/thoughtbot/paperclip
 "Paperclip is intended as an easy file attachment library for ActiveRecord."
 "ImageMagick must be installed and Paperclip must have access to it. To ensure that it does, on your command line, run which convert (one of the ImageMagick utilities). This will give you the path where that utility is installed. For example, it might return /usr/local/bin/convert."
 If ImageMagick is not installed follow the instructions to have it installed to work properly with paperclip
+
+02/11/16 added in gem twitter-bootstrap-rails
+https://github.com/seyhunak/twitter-bootstrap-rails
+"twitter-bootstrap-rails project integrates Bootstrap CSS toolkit for Rails Asset Pipeline"
