@@ -11,6 +11,10 @@ If you don't have rvm installed you can download it here:
 https://rvm.io/rvm/install
 and then run rvm use 2.0.0-p481 in your terminal
 
+Good sites that explain what purpose the Gemfile.lock has and does
+http://bundler.io/v1.3/rationale.html
+https://richonrails.com/articles/how-does-the-gemfile-lock-file-work
+
 02/04/16 added in gem ransack
 https://github.com/activerecord-hackery/ransack
 "Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application"
@@ -40,3 +44,11 @@ If ImageMagick is not installed follow the instructions to have it installed to 
 02/11/16 added in gem twitter-bootstrap-rails
 https://github.com/seyhunak/twitter-bootstrap-rails
 "twitter-bootstrap-rails project integrates Bootstrap CSS toolkit for Rails Asset Pipeline"
+
+02/12/16 added in gem therubyracer
+https://github.com/cowboyd/therubyracer
+"Embed the V8 JavaScript interpreter into Ruby."
+
+
+
+
