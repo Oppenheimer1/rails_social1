@@ -8,8 +8,9 @@ gem 'state_machine'
 gem 'draper', '~> 1.0'
 
 gem 'paperclip' , '~> 3.4.1'
-
+gem 'cocaine', '~> 0.5.0'
 gem 'therubyracer'
+gem 'less-rails'
 
 gem 'twitter-bootstrap-rails'
 
