@@ -11,8 +11,8 @@ gem 'paperclip' , '~> 3.4.1'
 gem 'cocaine', '~> 0.5.0'
 gem 'therubyracer'
 gem 'less-rails'
-
 gem 'twitter-bootstrap-rails'
+gem 'will_paginate'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
