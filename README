@@ -69,9 +69,13 @@ https://github.com/aws/aws-sdk-ruby
 https://github.com/lassebunk/metamagic
 "Metamagic is a simple Ruby on Rails plugin for creating meta tags. It supports regular meta tags, OpenGraph (Facebook), Twitter Cards, and custom tags."
 
-03/03/16 added in gem js-routes
+03/06/16 added in gem js-routes
 https://github.com/railsware/js-routes
 "Generates javascript file that defines all Rails named routes as javascript helpers"
+
+03/09/16 added in gem simple_form
+https://github.com/plataformatec/simple_form
+"Rails forms made easy."
 
 
 
