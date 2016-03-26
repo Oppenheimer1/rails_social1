@@ -77,7 +77,9 @@ https://github.com/railsware/js-routes
 https://github.com/plataformatec/simple_form
 "Rails forms made easy."
 
-
+03/26/16 added in gem asset_sync
+https://github.com/AssetSync/asset_sync
+"Asset Sync is built to run with the new Rails Asset Pipeline feature introduced in Rails 3.1. After you run bundle exec rake assets:precompile your assets will be synchronised to your S3 bucket, optionally deleting unused files and only uploading the files it needs to.""
 
 
 

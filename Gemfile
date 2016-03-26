@@ -17,8 +17,8 @@ gem 'bootstrap-will_paginate'
 gem 'aws-sdk'
 gem 'metamagic'
 
-# Bundle edge Rails instead:
-# gem 'rails', :git => 'git://github.com/rails/rails.git'
+
+gem 'asset_sync'
 
 gem 'sqlite3'
 
