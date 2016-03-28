@@ -19,6 +19,7 @@ gem 'metamagic'
 
 
 gem 'asset_sync'
+gem 'fog'
 
 gem 'sqlite3'
 

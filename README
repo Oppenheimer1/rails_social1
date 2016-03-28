@@ -79,7 +79,11 @@ https://github.com/plataformatec/simple_form
 
 03/26/16 added in gem asset_sync
 https://github.com/AssetSync/asset_sync
-"Asset Sync is built to run with the new Rails Asset Pipeline feature introduced in Rails 3.1. After you run bundle exec rake assets:precompile your assets will be synchronised to your S3 bucket, optionally deleting unused files and only uploading the files it needs to.""
+"Asset Sync is built to run with the new Rails Asset Pipeline feature introduced in Rails 3.1. After you run bundle exec rake assets:precompile your assets will be synchronised to your S3 bucket, optionally deleting unused files and only uploading the files it needs to."
+
+03/27/16 added in gem fog
+https://github.com/fog/fog
+"Fog is the Ruby cloud services library, top to bottom:"
 
 
 

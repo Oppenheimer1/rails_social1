@@ -215,6 +215,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   devise
   draper (~> 1.0)
+  fog
   font-awesome-rails
   jquery-rails
   js-routes
