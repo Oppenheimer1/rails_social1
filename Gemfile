@@ -32,7 +32,7 @@ gem 'font-awesome-rails'
 group :test do
   gem 'shoulda'
 end
-
+#new
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
