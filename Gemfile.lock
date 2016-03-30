@@ -65,6 +65,11 @@ GEM
     erubis (2.7.0)
     excon (0.38.0)
     execjs (2.2.0)
+    factory_girl (4.4.0)
+      activesupport (>= 3.0.0)
+    factory_girl_rails (4.4.1)
+      factory_girl (~> 4.4.0)
+      railties (>= 3.0.0)
     fog (1.23.0)
       fog-brightbox
       fog-core (~> 1.23)
@@ -221,6 +226,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   devise
   draper (~> 1.0)
+  factory_girl_rails
   fog
   font-awesome-rails
   jquery-rails

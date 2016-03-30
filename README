@@ -89,7 +89,9 @@ https://github.com/fog/fog
 https://github.com/thoughtbot/shoulda
 "Makes tests easier on the eyes"
 
-...
+03/28/16 added in gem factory_girl
+https://github.com/thoughtbot/factory_girl
+"factory_girl is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.""
 
 
 

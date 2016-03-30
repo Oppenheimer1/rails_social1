@@ -31,6 +31,7 @@ gem 'font-awesome-rails'
 # in production environments by default.
 group :test do
   gem 'shoulda'
+  gem 'factory_girl_rails'
 end
 #new
 group :assets do
