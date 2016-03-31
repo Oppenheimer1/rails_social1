@@ -21,7 +21,9 @@ gem 'metamagic'
 gem 'asset_sync'
 gem 'fog'
 
-gem 'sqlite3'
+group :development, :test do
+  gem 'sqlite3'
+end
 
 gem 'ransack'
 
