@@ -94,7 +94,7 @@ https://github.com/thoughtbot/factory_girl
 "factory_girl is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance."
 
 03/30/16
-Updated the gem file so that gem 'sqlite3' is only being used in development and test
+Updated the gem file so that gem 'sqlite3' is only being used in development and test.
 
 
 
