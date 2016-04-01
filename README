@@ -96,6 +96,10 @@ https://github.com/thoughtbot/factory_girl
 03/30/16
 Updated the gem file so that gem 'sqlite3' is only being used in development and test.
 
+04/01/16 added in gem log buddy
+https://github.com/relevance/log_buddy
+"log_buddy is your friendly little log buddy at your side, helping you dev, debug, and test."
+
 
 
 
