@@ -100,6 +100,10 @@ Updated the gem file so that gem 'sqlite3' is only being used in development and
 https://github.com/relevance/log_buddy
 "log_buddy is your friendly little log buddy at your side, helping you dev, debug, and test."
 
+04/04/16 added in gem thin
+https://rubygems.org/gems/thin/versions/1.6.4
+"A thin and fast web server"
+
 
 
 

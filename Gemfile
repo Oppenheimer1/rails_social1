@@ -21,14 +21,20 @@ gem 'metamagic'
 gem 'asset_sync'
 gem 'fog'
 
+gem 'ransack'
+
+gem 'font-awesome-rails'
+
+group :production do
+  gem 'thin'
+end
+
 group :development, :test do
   gem 'sqlite3'
   gem 'log_buddy'
 end
 
-gem 'ransack'
 
-gem 'font-awesome-rails'
 
 # Gems used only for assets and not required
 # in production environments by default.
