@@ -29,19 +29,23 @@ group :production do
   gem 'thin'
 end
 
+group :test do
+  gem 'shoulda'
+  gem 'factory_girl_rails'
+end
+
 group :development, :test do
   gem 'sqlite3'
   gem 'log_buddy'
 end
 
-
+group :production do
+  gem 'pg', '0.15.1'
+end
 
 # Gems used only for assets and not required
 # in production environments by default.
-group :test do
-  gem 'shoulda'
-  gem 'factory_girl_rails'
-end
+
 #new
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'

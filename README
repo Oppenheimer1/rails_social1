@@ -104,6 +104,10 @@ https://github.com/relevance/log_buddy
 https://rubygems.org/gems/thin/versions/1.6.4
 "A thin and fast web server"
 
+04/07/16 added in gem pg for production
+https://rubygems.org/gems/pg/versions/0.18.4
+"Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]."
+
 
 
 
