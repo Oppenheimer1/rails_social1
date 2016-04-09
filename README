@@ -104,9 +104,13 @@ https://github.com/relevance/log_buddy
 https://rubygems.org/gems/thin/versions/1.6.4
 "A thin and fast web server"
 
-04/07/16 added in gem pg for production
+04/07/16 added in gem pg
 https://rubygems.org/gems/pg/versions/0.18.4
 "Pg is the Ruby interface to the {PostgreSQL RDBMS}[http://www.postgresql.org/]."
+
+04/08/16 added in gem rails_12factor
+https://github.com/heroku/rails_12factor
+Makes running your Rails app easier on Heroku. Based on the ideas behind 12factor.net
 
 
 
