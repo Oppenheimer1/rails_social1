@@ -112,6 +112,10 @@ https://rubygems.org/gems/pg/versions/0.18.4
 https://github.com/heroku/rails_12factor
 Makes running your Rails app easier on Heroku. Based on the ideas behind 12factor.net
 
+04/11/16 added in gem jquery-fileupload-rails
+https://github.com/tors/jquery-fileupload-rails
+"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads."
+
 
 
 
