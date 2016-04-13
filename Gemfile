@@ -17,8 +17,6 @@ gem 'bootstrap-will_paginate'
 gem 'aws-sdk'
 gem 'metamagic'
 
-gem 'mina'
-
 gem 'asset_sync'
 gem 'fog'
 
