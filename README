@@ -116,6 +116,18 @@ Makes running your Rails app easier on Heroku. Based on the ideas behind 12facto
 https://github.com/tors/jquery-fileupload-rails
 "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads."
 
+04/12/16
+Had to update certificates due to the following error:
+"openssl::ssl::sslerror: ssl_connect returned=1 errno=0 state=sslv3 read server certificate b: certificate verify failed" -- yup, 
+This site worked best for the beginning to a soluton:
+I)http://railsapps.github.io/openssl-certificate-verify-failed.html
+follow the instructions and
+II)then per http://stackoverflow.com/questions/26878263/libxml2-missing-mac-os-x-10-10 had to run
+1)brew install libxml2
+2)gem install nokogiri:1.6.7.2 -- --use-system-libraries --with-xml=/usr/local/Cellar/libxml2/
+3)then run bundle update
+4)Be happy
+
 
 
 
